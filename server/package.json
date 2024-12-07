@@ -11,8 +11,8 @@
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.17.2",
-    "express": "^4.15.3",
-    "mongoose": "^4.11.1",
+    "express": "^4.21.2",
+    "mongoose": "^8.8.3",
     "nodemon": "^1.11.0",
     "path-parser": "^2.0.2",
     "redis": "^2.8.0",
